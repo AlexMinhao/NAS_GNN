@@ -4,7 +4,7 @@ import torch
 import sys
 import pickle as pkl
 import networkx as nx
-
+import os.path as osp
 from time import perf_counter
 import sklearn
 
@@ -236,17 +236,19 @@ def load_citation(dataset_str="cora", normalization="FirstOrderGCN", cuda=True, 
     """
     names = ['x', 'y', 'tx', 'ty', 'allx', 'ally', 'graph']
     objects = []
+    path = osp.join(osp.dirname(osp.realpath(__file__)), '..', 'data', dataset_str) #'\\NAS_GNN\\graphnas_variants\\micro_graphnas\\..\\data\\Citeseer'
     for i in range(len(names)):
-        with open("../graphnas_variants/data/{}/raw/ind.{}.{}".format(dataset_str, dataset_str.lower(), names[i]),
-                  'rb') as f:
+        path_data = osp.join(path, ("raw/ind.{}.{}".format(dataset_str.lower(), names[i])))
+        with open(path_data, 'rb') as f:
             if sys.version_info > (3, 0):
                 objects.append(pkl.load(f, encoding='latin1'))
             else:
                 objects.append(pkl.load(f))
 
     x, y, tx, ty, allx, ally, graph = tuple(objects)
+    path_data = osp.join(path, ("raw/ind.{}.test.index".format(dataset_str.lower())))
     test_idx_reorder = parse_index_file(
-        "../graphnas_variants/data/{}/raw/ind.{}.test.index".format(dataset_str, dataset_str))
+        path_data)
     test_idx_range = np.sort(test_idx_reorder)
 
     if dataset_str == 'Citeseer':
