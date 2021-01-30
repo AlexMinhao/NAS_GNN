@@ -1,0 +1,306 @@
+D:\software\Anaconda\envs\py37\python.exe F:/school/GraphNAS-master/eval_scripts/semi/eval_designed_gnn.py
+Using backend: pytorch
+D:\software\Anaconda\envs\py37\lib\site-packages\dgl\base.py:45: DGLWarning: Detected an old version of PyTorch. Suggest using torch>=1.5.0 for the best experience.
+  return warnings.warn(message, category=category, stacklevel=1)
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.696,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.696,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.704,test_score:0.706
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.713
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.696,test_score:0.717
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.706,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.712,test_score:0.721
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.707
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.706,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.701
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.684,test_score:0.697
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.69,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.688,test_score:0.711
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.723
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.703
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.684,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.713
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.708,test_score:0.717
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.717
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.69,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.7,test_score:0.709
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.708
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.709
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.688,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.712,test_score:0.709
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.682,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.682,test_score:0.705
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.711
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.705
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.716
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.725
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.707
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.684,test_score:0.707
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.678,test_score:0.706
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.68,test_score:0.703
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.704,test_score:0.71
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.711
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.72
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.706
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.7,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.709
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.717
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.68,test_score:0.725
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.712,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.707
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.708
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.704,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.708
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.69,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.724
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.704,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.7,test_score:0.709
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.7,test_score:0.704
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.704,test_score:0.716
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.688,test_score:0.708
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.713
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.688,test_score:0.719
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.706,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.706,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.717
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.688,test_score:0.716
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.704,test_score:0.722
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.682,test_score:0.703
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.721
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.723
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.68,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.696,test_score:0.708
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.688,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.71,test_score:0.723
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.703
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.7
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.707
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.708,test_score:0.721
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.686,test_score:0.708
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.71
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.692,test_score:0.721
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.684,test_score:0.709
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.69,test_score:0.712
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.694,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.7,test_score:0.715
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.714
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.718
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.702,test_score:0.702
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.698,test_score:0.711
+train action: ['gat', 'sum', 'linear', 4, 128, 'linear', 'sum', 'elu', 8, 6]
+Number of train datas: tensor(120, device='cuda:0')
+val_score:0.7,test_score:0.717
+________________________________________________________________________________
+Citeseer 0.7129 0.004772723424721878

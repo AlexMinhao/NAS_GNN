@@ -1,0 +1,808 @@
+D:\software\Anaconda\envs\py37\python.exe F:/school/GraphNAS-master/eval_scripts/sup/eval_designed_gnn.py
+Using backend: pytorch
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.746,test_score:0.792
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.75,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.81
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.79
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.75,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.748,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.788
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.75,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.808
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.746,test_score:0.812
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.808
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.81
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.81
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.746,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.748,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.79
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.746,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.74,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.746,test_score:0.792
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.744,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.748,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.81
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.75,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.744,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.746,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.79
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.808
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.75,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.806
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.798
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.8
+________________________________________________________________________________
+Citeseer fixed split results: 0.8006666666666666 0.0036636351104090926
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.75
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.758
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.77
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.788
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.754
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.738,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.786,test_score:0.764
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.766
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.772
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.79
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.81
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.778
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.784
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.754
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.79
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.776,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.77,test_score:0.754
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.78,test_score:0.788
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.768
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.752,test_score:0.77
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.788,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.744
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.796,test_score:0.76
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.784,test_score:0.762
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.764
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.77
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.778,test_score:0.81
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.79,test_score:0.792
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.768
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.776,test_score:0.764
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.804
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.784,test_score:0.768
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.778
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.792,test_score:0.802
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.78,test_score:0.788
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.808
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.778,test_score:0.774
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.8
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.792,test_score:0.764
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.778,test_score:0.764
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.78,test_score:0.792
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.762
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.784,test_score:0.74
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.786,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.784
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.79,test_score:0.77
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.756
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.74,test_score:0.746
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.78,test_score:0.744
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.782,test_score:0.752
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.772
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.786,test_score:0.77
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.764
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.742,test_score:0.736
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.76,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.774
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.77,test_score:0.77
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.724,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.728,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.774,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.77,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.774
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.788,test_score:0.766
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.762
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.792,test_score:0.762
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.794,test_score:0.766
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.762,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.79,test_score:0.766
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.794,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.766,test_score:0.778
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.776,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.768,test_score:0.74
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.792
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.756,test_score:0.748
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.742
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.786,test_score:0.792
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.76
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.794
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.778,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.8,test_score:0.78
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.786,test_score:0.786
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.77,test_score:0.776
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.772,test_score:0.796
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.764,test_score:0.732
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.782,test_score:0.768
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.758,test_score:0.738
+{'action': [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat'], 'hyper_param': [0.01, 0.9, 0.0001, 64]}
+train action: [0, 'gat_6', 0, 'gcn', 0, 'gcn', 2, 'arma', 'tanh', 'concat']
+Number of train datas: tensor(2327, device='cuda:0')
+val_score:0.754,test_score:0.786
+________________________________________________________________________________
+Citeseer randomly split results: 0.7740222222222223 0.01380014313756507
+
+Process finished with exit code 0
