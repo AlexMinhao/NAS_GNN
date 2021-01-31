@@ -128,13 +128,13 @@ class ZengManager(GeoCitationManager):
 
     def evaluate(self, actions=None, format="micro"):
         print(actions)
-        model_actions = actions['action']
-        param = actions['hyper_param']
-        self.args.lr = param[0]
-        self.args.in_drop = param[1]
-        self.args.weight_decay = param[2]
-        self.args.num_hidden = param[3]
-        self.args.layers_of_child_model = param[4]
+        model_actions = actions #actions['action']
+        # param = actions['hyper_param']
+        # self.args.lr = param[0]
+        # self.args.in_drop = param[1]
+        # self.args.weight_decay = param[2]
+        # self.args.num_hidden = param[3]
+        # self.args.layers_of_child_model = param[4]
         return super(GeoCitationManager, self).evaluate(model_actions, format=format)
 
     def shuffle_data(self, full_data=True):

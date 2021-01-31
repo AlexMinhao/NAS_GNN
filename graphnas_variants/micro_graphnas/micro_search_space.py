@@ -199,16 +199,16 @@ class SearchSpaceZeng(object):
         # self.search_space["K7"] = list(range(8, 520, 8))
         # self.search_space["K8"] = list(range(8, 520, 8))
         if args.num_granularity == 0:
-            self.search_space["K0"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K1"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
+            self.search_space["K0"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K1"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
             # self.search_space["K1"] = [1,3327]
-            self.search_space["K2"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K3"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K4"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K5"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K6"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K7"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
-            self.search_space["K8"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3327]
+            self.search_space["K2"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K3"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K4"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K5"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K6"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K7"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
+            self.search_space["K8"] = [1,2, 4,8,16, 32, 64, 128, 256, 512, 1024, 2048, 3703]
         else:
             self.search_space["K0"] = list(range(args.num_granularity, 520, args.num_granularity))
             self.search_space["K1"] = list(range(args.num_granularity, 520, args.num_granularity))
@@ -220,15 +220,15 @@ class SearchSpaceZeng(object):
             self.search_space["K6"] = list(range(args.num_granularity, 520, args.num_granularity))
             self.search_space["K7"] = list(range(args.num_granularity, 520, args.num_granularity))
             self.search_space["K8"] = list(range(args.num_granularity, 520, args.num_granularity))
-            self.search_space["K0"].append(3327)
-            self.search_space["K1"].append(3327)
-            self.search_space["K2"].append(3327)
-            self.search_space["K3"].append(3327)
-            self.search_space["K4"].append(3327)
-            self.search_space["K5"].append(3327)
-            self.search_space["K6"].append(3327)
-            self.search_space["K7"].append(3327)
-            self.search_space["K8"].append(3327)
+            self.search_space["K0"].append(3703)
+            self.search_space["K1"].append(3703)
+            self.search_space["K2"].append(3703)
+            self.search_space["K3"].append(3703)
+            self.search_space["K4"].append(3703)
+            self.search_space["K5"].append(3703)
+            self.search_space["K6"].append(3703)
+            self.search_space["K7"].append(3703)
+            self.search_space["K8"].append(3703)
             self.search_space["K0"].append(1)
             self.search_space["K1"].append(1)
             self.search_space["K2"].append(1)

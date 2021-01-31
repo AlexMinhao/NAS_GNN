@@ -124,7 +124,7 @@ class ZengCell(nn.Module):
         state = []
         for i, c in enumerate(self.K_hops):
 
-            if c == 3327:
+            if c == 3703:
                 s = all_features[i]
             else:
                 s = self.conv_k[i](all_features[i])

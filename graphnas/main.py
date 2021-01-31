@@ -41,13 +41,13 @@ def register_default_args(parser):
     parser.add_argument('--load_path', type=str, default='')
     parser.add_argument('--layers_of_child_model', type=int, default=1)
     parser.add_argument('--search_mode', type=str, default='Zeng')
-    parser.add_argument('--num_hops', type=str, default=8)
+    parser.add_argument('--num_hops', type=str, default=8)          ###########
     parser.add_argument('--format', type=str, default='Zeng')
-    parser.add_argument('--max_epoch', type=int, default=5)
+    parser.add_argument('--max_epoch', type=int, default=5)          ###########大循环
 
     parser.add_argument('--ema_baseline_decay', type=float, default=0.95)
     parser.add_argument('--discount', type=float, default=1.0)
-    parser.add_argument('--controller_max_step', type=int, default=100,
+    parser.add_argument('--controller_max_step', type=int, default=50,  #####  多少个模型
                         help='step for controller parameters')
     parser.add_argument('--controller_optim', type=str, default='adam')
     parser.add_argument('--controller_lr', type=float, default=3.5e-4,
@@ -55,18 +55,18 @@ def register_default_args(parser):
     parser.add_argument('--controller_grad_clip', type=float, default=0)
     parser.add_argument('--tanh_c', type=float, default=2.5)
     parser.add_argument('--softmax_temperature', type=float, default=5.0)
-    parser.add_argument('--derive_num_sample', type=int, default=50)  ###########
+    parser.add_argument('--derive_num_sample', type=int, default=20)   ###########
     parser.add_argument('--derive_finally', type=bool, default=True)
     parser.add_argument('--derive_from_history', type=bool, default=True)
 
-    parser.add_argument('--num_granularity', type=int, default=8)
+    parser.add_argument('--num_granularity', type=int, default=0)
 
     # child model
     parser.add_argument("--dataset", type=str, default="Citeseer", required=False,
                         help="The input dataset.")
-    parser.add_argument("--epochs", type=int, default=200,
+    parser.add_argument("--epochs", type=int, default=100,                  ###########
                         help="number of training epochs")
-    parser.add_argument("--retrain_epochs", type=int, default=200,
+    parser.add_argument("--retrain_epochs", type=int, default=100,
                         help="number of training epochs")
     parser.add_argument("--multi_label", type=bool, default=False,
                         help="multi_label or single_label task")

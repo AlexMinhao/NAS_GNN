@@ -158,6 +158,7 @@ class Trainer(object):
         - In the first phase, shared parameters are trained to exploration.
         - In the second phase, the controller's parameters are trained.
         """
+        # best_actions = self.derive()
 
         for self.epoch in range(self.start_epoch, self.args.max_epoch):  #0  -  10
             print("****** Start - Trainer Current-Epoch {:05d}, start {:05d}, max {:05d} ******".format(
@@ -339,8 +340,12 @@ class Trainer(object):
         logger.info(f'eval | {gnn} | reward: {reward:8.2f} | scores: {scores:8.2f}')
 
     def derive_from_history(self):
-        with open(self.args.dataset + "_" + self.args.search_mode + self.args.submanager_log_file, "a") as f:
-            lines = f.readlines()
+        if self.args.search_mode == 'Zeng':
+            with open(self.args.dataset + "_" + self.args.search_mode + self.args.submanager_log_file, "r") as f:
+                lines = f.readlines()
+        else:
+            with open(self.args.dataset + "_" + self.args.search_mode + self.args.submanager_log_file, "a") as f:
+                lines = f.readlines()
 
         results = []
         best_val_score = "0"
@@ -418,32 +423,64 @@ class Trainer(object):
         return f"{self.args.dataset}_hops{self.args.num_hops}_grat{self.args.num_granularity}_{self.args.search_mode}_{self.args.format}_results.txt"
 
     @property
-    def controller_path(self):
+    def controller_path(self):########################################
         return f'{self.args.dataset}/controller_hops{self.args.num_hops}_grat{self.args.num_granularity}_epoch{self.epoch}_step{self.controller_step}.pth'
 
+        # return f'{self.args.dataset}/controller_epoch{self.epoch}_step{self.controller_step}.pth'
+
     @property
-    def controller_optimizer_path(self):
+    def controller_optimizer_path(self):########################################
         return f'{self.args.dataset}/controller_hops{self.args.num_hops}_grat{self.args.num_granularity}_epoch{self.epoch}_step{self.controller_step}_optimizer.pth'
+
+        # return f'{self.args.dataset}/controller_epoch{self.epoch}_step{self.controller_step}_optimizer.pth'
 
     def get_saved_models_info(self):
         paths = glob.glob(os.path.join(self.args.dataset, '*.pth'))
         paths.sort()
 
         def get_numbers(items, delimiter, idx, replace_word, must_contain=''):
+            temp = []  # '_' fenge
+            for name in items:
+                if must_contain in name:
+                    a1 = name.split(delimiter)[0].replace(replace_word, '')
+                    a = name.split(delimiter)
+                    str = a[idx]
+                    num = str.replace(replace_word, '') #把epoch 替换成‘’
+                    # temp.append(set(int(a)))
+
             return list(set([int(
                 name.split(delimiter)[idx].replace(replace_word, ''))
                 for name in items if must_contain in name]))
 
         basenames = [os.path.basename(path.rsplit('.', 1)[0]) for path in paths]
-        epochs = get_numbers(basenames, '_', 1, 'epoch')
-        shared_steps = get_numbers(basenames, '_', 2, 'step', 'shared')
-        controller_steps = get_numbers(basenames, '_', 2, 'step', 'controller')
+        if self.args.search_mode == 'Zeng':
+            hops = get_numbers(basenames, '_', 1, 'hops')
+            grat = get_numbers(basenames, '_', 2, 'grat')
+            epochs = get_numbers(basenames, '_', 3, 'epoch')
+            shared_steps = get_numbers(basenames, '_', 4, 'step', 'shared')
+            controller_steps = get_numbers(basenames, '_', 4, 'step', 'controller')
 
-        epochs.sort()
-        shared_steps.sort()
-        controller_steps.sort()
+            # hops.sort()
+            # grat.sort()
+            epochs.sort()
+            shared_steps.sort()
+            controller_steps.sort()
 
-        return epochs, shared_steps, controller_steps
+            return epochs, shared_steps, controller_steps
+
+        else:
+            epochs = get_numbers(basenames, '_', 1, 'epoch')
+            shared_steps = get_numbers(basenames, '_', 2, 'step', 'shared')
+            controller_steps = get_numbers(basenames, '_', 2, 'step', 'controller')
+
+            epochs.sort()
+            shared_steps.sort()
+            controller_steps.sort()
+
+            return epochs, shared_steps, controller_steps
+
+
+
 
     def save_model(self):
 
